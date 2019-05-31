@@ -1,0 +1,40 @@
+.choices {
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+
+
+
+#winorlose {
+    display: flex;
+    justify-content: center;
+    color: #970808;
+    font-size: 40px;
+    font-style: oblique;
+}
+
+.organized {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.header {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px
+}
+
+.body {
+    background-image: linear-gradient(#ffffff, #323435, #970808);
+    padding-bottom: 50px;
+}
+
+#pick {
+    color: white;
+    font-family: sans-serif
+}
